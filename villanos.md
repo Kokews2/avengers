@@ -2,3 +2,4 @@
 
 - Dr. Boom
 - Doomstain
+- Dr Herrera
